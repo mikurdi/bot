@@ -9,7 +9,7 @@ $ cd whatsapp-chatgpt <br>
 $ npm install <br>
 $ node index.js <br>
 
-Visit: https://shadowhackr.com <br>
+Visit: https://mikurdi.com <br>
 
 # How to get OpenAI API?
 Visit: https://beta.openai.com/account/api-keys
